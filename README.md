@@ -19,8 +19,7 @@ This project was broken into 3 phases:
 
 ##### Phase 3: Machine Learning (<a href="https://github.com/laurindo-garcia/covid-19/blob/master/covid-19-race-gender-poverty-machine-learning.ipynb">See Phase 3 on Github</a>)
 1. Test hypothesis that features with highest importance are unable to predict Covid 19 morbidity and mortality using machine learning (Random Forest).
-2. Visualise findings: a) Highly correlated features and possible Simpsons Paradox; b) outcomes of machine learning.
-3. Articulate conclusions and next steps for Machine Learning Phase
+2. Articulate conclusions and next steps for Machine Learning Phase
 
 ##### Next Steps:
 1. Implement improvements to fine tune each phase (notes contained in each section)
