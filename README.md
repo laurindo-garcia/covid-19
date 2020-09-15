@@ -22,6 +22,11 @@ This project was broken into 3 phases:
 2. Visualise findings: a) Highly correlated features and possible Simpsons Paradox; b) outcomes of machine learning.
 3. Articulate conclusions and next steps for Machine Learning Phase
 
+##### Next Steps:
+1. Implement improvements to fine tune each phase (notes contained in each section)
+2. Continue testing model with fresh data, testing and algorithms
+3. Seek out peer review and collaborations
+
 #### Data Sources
 1. Covid 19 Morbidity by U.S Count (USA Facts/U.S CDC, 2020): timeseries from 22/01/2020 to 31/07/2020: https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/
 2. Covid 19 Mortality by U.S. County (USA Facts/U.S. CDC, 2020): timeseries from 22/01/2020 to 31/07/2020: https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/
